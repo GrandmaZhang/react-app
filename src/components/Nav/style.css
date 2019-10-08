@@ -1,0 +1,16 @@
+body{
+    background: #f4f5f5;
+  }
+  .nav{
+    line-height: 60px;
+    padding: 0px 50px;
+    background: #fff;
+  }
+  .nav a{
+    color: #71777c;
+    margin: 0 20px;
+    text-decoration: none;
+  }
+  a.active{
+    color: #007fff;
+  }

@@ -1,0 +1,60 @@
+*{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.wrapper{
+  display: inline-block;
+  width: 350px;
+  margin-left: 10px;
+}
+.title{
+  position: relative;
+  height: 35px;
+  line-height: 35px;
+}
+.title h4{
+  display: inline-block;
+}
+.title span{
+  float: right;
+}
+.list{
+  height: 35px;
+  line-height: 35px;
+}
+.list div{
+  display: inline-block;
+}
+.titleInner{
+  text-decoration: none;
+}
+.hotNumber{
+  float: right;
+}
+
+.indexWrapper{
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  line-height: 14px;
+  text-align: center;
+  margin-right: 5px;
+  font-size: 12px;
+  background: #8eb9f5;
+  color: #fff;
+}
+.new{
+  display: inline-block;
+  background: red;
+  font-weight: 400;
+  width: 16px;
+  line-height: 16px;
+  height: 16px;
+  font-size: 12px;
+  text-align: center;
+  color: #fff;
+  margin-left: 5px;
+}
+
+
